@@ -1,3 +1,3 @@
-Adding rns COntent
-this is vinay
+my lines
+naresh rohit
 common file
